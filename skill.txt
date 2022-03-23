@@ -1,1 +1,0 @@
-skills: Python, Jmeter, Postman, SQL.
