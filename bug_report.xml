@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+<ID>1</ID>
+<Title>Нажатие кнопки "Перейти в каталог" на главной странице не перенаправляет на страницу Каталога</Title>
+<Project>Сайт книжного магазина "Фламмарион"</Project>
+<STR>Зайти на главную страницу сайта(ссылка_на_сайт), нажать кнопку "Каталог"</STR>
+<Enviroment>OS:Windows10x64 build19043,Google Chrome v96.0.4664.45 x64</Enviroment>
+<Component>Кнопка "Каталог"</Component>
+<Build>0.5.7</Build>
+<Actual result>Нажатие кнопки "Каталог" не перенаправляет на страницу Каталога</Actual result>
+<Expected result>Нажатие кнопки "Каталог" перенаправляет на страницу Каталога</Expected result>
+<Severity>Critical</Severity>
+<Priority>High</Priority>
+<Status>Open</Open>
+<Attachments>ссылка_на_картинку_или_видео_с_багом</Attachments>
+</resume>
